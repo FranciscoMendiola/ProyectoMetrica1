@@ -1,7 +1,7 @@
 # ProyectoMetrica1
-@ author Mendiola Gutiérrez Francisco Javier
-@ date 05 / 10/ 2022
-@ Cuenta 320027840
+# author Mendiola Gutiérrez Francisco Javier
+# date 05 / 10/ 2022
+# Cuenta 320027840
 
 Proyecto modificado de las funciones de métricas con puntos.
 
